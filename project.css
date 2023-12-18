@@ -1,0 +1,92 @@
+
+.crd{
+    display: flex;
+    /* justify-content: center; */
+    margin-left: 115px;
+    color: black;
+}
+.crd .card {
+    width: 300px;
+    background-color: #fff;
+    border-radius: 4px;
+    padding: 11px;
+    color: black;
+    margin-inline: 11px;
+    margin-top: 84px;
+
+}
+.card img{
+    width: 100%;
+}
+.card h2{
+    margin-top: 12px;
+}
+
+.card h4{
+    margin-top: 12px;
+}
+
+.card button{
+    margin-top: 25px;
+    border: none;
+    outline: none;
+    background-color: rgb(255, 119, 0);
+    color: white;
+    border-radius: 2px;
+    font-size: 22px;
+    width: 140px;
+    height: 38px;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: #fff;
+    padding: 55px;
+    margin-top: 77px;
+    
+}
+.footer .txt{
+    color: black;
+}
+.txt p{
+    margin-top: 12px;
+}
+.main{
+    display: flex;
+    justify-content: space-around;
+}
+.main img{
+    width: 33%;
+    margin-top: 33px;
+}
+.text img{
+    width: 33%;
+    margin-top: 33px;
+}
+.branch{
+    text-align: center;
+    font-size: 44px;
+    margin-top: 53px;
+    margin-left: 22px;
+
+    color: rgb(255, 119, 0);}
+    .tree{
+    
+
+    position: absolute;
+     width: 100%;
+     height: 100%;
+    background-color: #fff;
+    color: black;
+    text-align: center;
+    padding: 11px;
+    transition: 0.5s ease;}
+    
+
+    
+        
+        
+        
+
+
+    
